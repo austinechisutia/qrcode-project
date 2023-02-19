@@ -1,0 +1,15 @@
+
+div{
+	width: 200px;
+	height: 350px;
+	text-align: center;
+
+}
+body{
+	background-color: hsl(220, 15%, 55%);
+}
+#kay{
+	color: hsl(218, 44%, 22%);
+	font-family: outfit;
+	font-weight: bold;
+}
